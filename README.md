@@ -11,3 +11,5 @@ requirements.txt
 ```
 ### Establishing dependancies 
 Tomato App Model:-  https://mega.nz/file/6EgCBYIR#_l9urEeUnH_d66tQSXMSqIJ4jC3xtnxps9OFxxShtyI
+
+Tomato Image Dataset:-https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf
